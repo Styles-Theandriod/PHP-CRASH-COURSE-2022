@@ -1,0 +1,6 @@
+<? 
+$name = '';
+$Email = "";  
+$Password = "";
+
+?>
