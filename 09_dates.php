@@ -4,9 +4,9 @@
 
 // Print yesterday
 
-// Different format: https://www.php.net/manual/en/function.date.php
+// Different Dates format: https://www.php.net/manual/en/function.date.php
 
-// Print current timestamp
+// Print current timestamp in php
 
 // Parse date: https://www.php.net/manual/en/function.date-parse.php
 

@@ -5,6 +5,6 @@
     $DB_NAME = 'demo';
 
     // connection to my database 
-    $mysql = new 
+    // $mysql = new 
 
 ?>

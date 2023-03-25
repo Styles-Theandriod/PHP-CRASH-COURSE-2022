@@ -28,6 +28,6 @@ XandY();
 // Arrow functions
 // fn(argument) => expression to be returned;
 $str = "i am travelling to the village";
-$my_function = fn($a) => $str . $a;                                               
+// $my_function = fn($a) => $str . $a;                                               
 
 echo $my_function('!');

@@ -28,6 +28,11 @@ for($x = 0; $x <= 20; $x++){
     echo "The number is:$x <br>";
 }
 
+$list =  ['veronicar', 'abugail', 'jenifa', 'blessing', 'precious'];
+
 // foreach
+foreach ($list as  $value) {
+    echo "$value <br>";
+}
 
 // Iterate Over associative array.
